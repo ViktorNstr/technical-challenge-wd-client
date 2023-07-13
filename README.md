@@ -1,4 +1,4 @@
-# Project  | Technical Challenge WD Client
+# Project  | Technical Challenge WD Frontend
 
 ## Description
 
